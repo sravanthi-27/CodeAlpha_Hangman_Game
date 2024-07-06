@@ -28,3 +28,15 @@ The Hangman Game is a word guessing game where the player has to guess the hidde
 To start the Hangman Game, simply run the `hangman.py` script
 
 ## Link of the project:
+
+https://github.com/sravanthi-27/CodeAlpha_Hangman_Game
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## Screenshot of the project:
+
+![Screenshot 2024-07-06 092730](https://github.com/sravanthi-27/CodeAlpha_Hangman_Game/assets/170450054/c52a19d7-971d-43e1-88d0-2c685ca542b2)
+
