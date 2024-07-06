@@ -9,6 +9,8 @@ Welcome to the Hangman Game! This project is a simple text-based implementation 
 - [Features](#features)
 - [Usage](#usage)
 - [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
     
 ## Description
 
@@ -34,6 +36,15 @@ https://github.com/sravanthi-27/CodeAlpha_Hangman_Game
 ## License
 
 This project is licensed under the MIT License - see the [https://github.com/sravanthi-27/CodeAlpha_Hangman_Game/blob/main/LICENSE](LICENSE) file for details.
+
+## Contributing
+
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
+
+## Acknowledgements
+This project was developed as part of an internship at Codsoft. Special thanks to the Codsoft team for their support and guidance.
+
+
 
 
 ## Screenshot of the project:
