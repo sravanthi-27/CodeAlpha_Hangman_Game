@@ -8,8 +8,8 @@ Welcome to the Hangman Game! This project is a simple text-based implementation 
 - [Description](#description)
 - [Features](#features)
 - [Usage](#usage)
-
-  
+- [License](#license)
+    
 ## Description
 
 The Hangman Game is a word guessing game where the player has to guess the hidden word one letter at a time. The player has a limited number of attempts to guess the word correctly. If the player guesses the word before running out of attempts, they win. Otherwise, they lose.
