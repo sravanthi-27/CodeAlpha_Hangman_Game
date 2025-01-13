@@ -1,7 +1,7 @@
 # CodeAlpha_Hangman_Game
 # Hangman Game
 
-Welcome to the Hangman Game! This project is a simple text-based implementation of the classic Hangman game, written in Python. It was developed as the first project for an internship at Codsoft.
+Welcome to the Hangman Game! This project is a simple text-based implementation of the classic Hangman game, written in Python. 
 
 ## Table of Contents
 
@@ -31,11 +31,11 @@ To start the Hangman Game, simply run the `hangman.py` script
 
 ## Link of the project:
 
-https://github.com/sravanthi-27/CodeAlpha_Hangman_Game
+https://github.com/sravanthi-27/Hangman_Game
 
 ## License
 
-This project is licensed under the MIT License - see the [https://github.com/sravanthi-27/CodeAlpha_Hangman_Game/blob/main/LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [https://github.com/sravanthi-27/Hangman_Game/blob/main/LICENSE](LICENSE) file for details.
 
 ## Contributing
 
@@ -49,5 +49,5 @@ This project was developed as part of an internship at Codsoft. Special thanks t
 
 ## Screenshot of the project:
 
-![Screenshot 2024-07-06 092730](https://github.com/sravanthi-27/CodeAlpha_Hangman_Game/assets/170450054/c52a19d7-971d-43e1-88d0-2c685ca542b2)
+![Screenshot 2024-07-06 092730](https://github.com/sravanthi-27/Hangman_Game/assets/170450054/c52a19d7-971d-43e1-88d0-2c685ca542b2)
 
